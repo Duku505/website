@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Duku505/website/static/css/main.e6c13ad2.css",
+    "main.js": "/Duku505/website/static/js/main.3dfe3def.js",
+    "static/js/453.195b869a.chunk.js": "/Duku505/website/static/js/453.195b869a.chunk.js",
+    "index.html": "/Duku505/website/index.html",
+    "main.e6c13ad2.css.map": "/Duku505/website/static/css/main.e6c13ad2.css.map",
+    "main.3dfe3def.js.map": "/Duku505/website/static/js/main.3dfe3def.js.map",
+    "453.195b869a.chunk.js.map": "/Duku505/website/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3dfe3def.js"
+  ]
+}
