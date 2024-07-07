@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css'; // Import custom CSS
+import './Header.css'; 
 
 const Header = () => {
   return (
@@ -18,7 +18,7 @@ const Header = () => {
                   <a className="nav-link" href="mailto:batdulguunenkhtuya@gmail.com">Contact</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="CV.pdf" download>Resumé</a>
+                  <a className="nav-link" href="src/CV.pdf" download>Resumé</a>
                 </li>
               </ul>
             </nav>

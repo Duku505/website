@@ -2,9 +2,9 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css'
 import Header from './Header';
 import Footer from './Footer';
-import './index.css'; 
-import image1 from './image1.jpg'; 
-import image2 from './image2.jpg'; 
+import './index.css';
+import image1 from './image1.jpg';
+import image2 from './image2.jpg';
 
 const App = () => {
   return (
